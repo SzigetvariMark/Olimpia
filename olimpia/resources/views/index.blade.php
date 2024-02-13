@@ -9,20 +9,18 @@
     <title>Téli olimpiai játékok</title>
 </head>
 <body>
-    <nav>
+    <nav class="bg-fej">
+        <img src="img/teli_olimpia.png">
     <h1>Téli olimpiai játékok</h1>
     </nav>
+    <div class="container"></div>
 <h3>Kinai téli olompiai játékok</h3>
         
     <img src="img/2022_Winter_Olympics_logo.svg">  <a href="https://upload.wikimedia.org/wikipedia/commons/b/b4/2022_Winter_Olympics_logo.svg">  eijing2022.cn, <a/> Public domain, via Wikimedia Commons 
             A XXIV. téli olimpiai játékokat 2022. február 4. és február 20. között rendezték a kínai Pekingben. A rendező várost a 128. IOC gyűlésen választotta ki a Nemzetközi Olimpiai Bizottság 2015. július 31-én a malajziai Kuala Lumpurban. A 2022-es téli olimpiának 25 helyszíne van. A bázis Pekingben található, amely otthont ad például a jégkorong, a gyorskorcsolya, a curling versenyeknek. A 2022. február 4. és 20. között zajló pekingi téli olimpiai játékok egyetlen új, a játékokra emelt állandó helyszíne az Ice Ribbon, azaz Jégszalag.
             Peking a Kínai Népköztársaság fővárosa, négy tartományi jogú városának egyike, a Pekingi főegyházmegye érseki székvárosa. Pekinget északról, nyugatról, délről és kis részben keletről Hopej tartomány határolja, míg délkeletről Tiencsin tartománnyal szomszédos.
             <!DOCTYPE html>
-<html>
-<head>
-    <title>Sportágak és Versenyszámok</title>
-</head>
-<body>
+            </div>
     <h1>Helyszinek:</h1>
     <table class="table">
         <thead>
@@ -44,12 +42,6 @@
             @endforeach
         </tbody>
     </table>
-</body>
-</html>
-
-
-
-
      <h3>Rövidpályás gyorskorcsolya a téli olimpiai játékokon</h3>
 
           A 2022. évi téli olimpiai játékokon a rövidpályás gyorskorcsolya versenyszámait a pekingi Fővárosi Fedett Stadionban rendezték február 5. és 16. között. A férfiaknak és a nőknek egyaránt 4–4 versenyszámban, illetve egy vegyes versenyszámban osztottak érmeket. A vegyes 2000 méteres váltó először szerepelt a téli olimpiai játékok programjában. https://hu.wikipedia.org/wiki/R%C3%B6vidp%C3%A1ly%C3%A1s_gyorskorcsolya, Rövidpályás gyorskorcsolya 
