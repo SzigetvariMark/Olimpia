@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="olimpia.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Téli olimpiai játékok</title>
 </head>
@@ -15,6 +17,35 @@
     <img src="img/2022_Winter_Olympics_logo.svg">  <a href="https://upload.wikimedia.org/wikipedia/commons/b/b4/2022_Winter_Olympics_logo.svg">  eijing2022.cn, <a/> Public domain, via Wikimedia Commons 
             A XXIV. téli olimpiai játékokat 2022. február 4. és február 20. között rendezték a kínai Pekingben. A rendező várost a 128. IOC gyűlésen választotta ki a Nemzetközi Olimpiai Bizottság 2015. július 31-én a malajziai Kuala Lumpurban. A 2022-es téli olimpiának 25 helyszíne van. A bázis Pekingben található, amely otthont ad például a jégkorong, a gyorskorcsolya, a curling versenyeknek. A 2022. február 4. és 20. között zajló pekingi téli olimpiai játékok egyetlen új, a játékokra emelt állandó helyszíne az Ice Ribbon, azaz Jégszalag.
             Peking a Kínai Népköztársaság fővárosa, négy tartományi jogú városának egyike, a Pekingi főegyházmegye érseki székvárosa. Pekinget északról, nyugatról, délről és kis részben keletről Hopej tartomány határolja, míg délkeletről Tiencsin tartománnyal szomszédos.
+            <!DOCTYPE html>
+<html>
+<head>
+    <title>Sportágak és Versenyszámok</title>
+</head>
+<body>
+    <h1>Helyszinek:</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Város</th>
+                <th>Sportág</th>
+                <th>Helyszín</th>
+                <th>Versenyszámok</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach($sportagak as $sportag)
+            <tr>
+                <td>{{ $sportag->varos }}</td>
+                <td>{{ $sportag->sportagneve }}</td>
+                <td>{{ $sportag->helyszin }}</td>
+                <td>{{ $sportag->versenyszamok }}</td>
+            </tr>
+            @endforeach
+        </tbody>
+    </table>
+</body>
+</html>
 
 
 
