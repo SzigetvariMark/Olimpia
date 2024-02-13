@@ -9,9 +9,8 @@
     <title>Téli olimpiai játékok</title>
 </head>
 <body>
-    <nav class="bg-fej">
-        <img src="img/teli_olimpia.png">
-    <h1>Téli olimpiai játékok</h1>
+    <nav class="bg-fej topnav">
+    <h1 class="title-h1">Téli olimpiai játékok</h1>
     </nav>
     <div class="container"></div>
 <h3>Kinai téli olompiai játékok</h3>
@@ -53,12 +52,13 @@
           A kép címe: "Készítette: Auguste Matisse - precise immediate image source is unknown. The poster is also on display at the website of the IOC.,Közkincs"
           <img src="img/1924WOlympicPoster.jpeg" alt=""><a href="https://commons.wikimedia.org/w/index.php?curid=216754">, Eredeti oldal <a/>
                  
-
+<div>
          <h3>Rövid pályás gyorskorcsolya Magyarország</h3>
          <p>Magyarország a kínai Pekingben megrendezett 2022. évi téli olimpiai játékok egyik részt vevő nemzete volt. Az országot az olimpián 5 sportágban 14 sportoló képviselte. Magyarország először szerzett egynél több érmet a téli olimpiai játékok történetében. Liu Shaoang Magyarország első egyéni téli olimpiai aranyérmét nyerte.
             <img src="img/magyar_rp_gyors_korcsolya.jpeg">
          
         A kép címe: "A magyar érmeket szállító short trackesek (balról): Liu Shaoang, Jászapáti Petra, Kónya Zsófia, Liu Shaolin Sándor és Krueger John-Henry (Fotó: Árvai Károly)"
       Maga a sportág 1992 óta szerepel az olimpiákon, és eddig 16 ország tudott érmet szerezni az azóta lebonyolított kilenc játékokon. Közülük a belgák most iratkoztak fel egy bronzéremmel. Az élen itt is Dél-Korea áll 26 arannyal és 53 éremmel, a kínaiaknak 12 aranyuk és 37 dobogós helyezésük, a kanadaiaknak 10 aranyuk és 37 medáliájuk van. Innentől kezdve viszont nagyon szoros a mezőny: az amerikaiaknak 4 aranyuk, az olaszoknak, a hollandoknak és Oroszországnak 3-3 olimpiai bajnoki címe van, és Liu Shaoang 500-as aranyával, 1000 méteres bronzával és a vegyes váltó harmadik helyével Magyarország az igen előkelő 8. helyre lépett előre a tizedikről, megelőzve Japánt és Ausztráliát is. A mieink négy éve iratkoztak fel a tabellára a férfiváltó aranyérmével.    
+      </div>
 </body>
 </html>

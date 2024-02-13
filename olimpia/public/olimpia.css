@@ -1,3 +1,12 @@
+.topnav{
+  background-image: url('img/teli_olimpia.png');
+    background-size: contain; 
+    background-position: center; 
+    height: 500px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
 .body{
   color: #293647;
 }
@@ -9,8 +18,8 @@
 }
 
 .bg-fej h1{
-
-  color: black;
+  text-decoration: underline;
+  color: red
 
 }
 .bg-fej h3{
@@ -21,7 +30,7 @@
 }
 
 .container{
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
 
 .bg-torzs {
