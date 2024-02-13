@@ -11,6 +11,29 @@
   color: #293647;
 }
 
+.container-keret {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 100vh;
+  background-color: brown;
+}
+
+.content {
+  text-align: center;
+  background-color: white; 
+  padding: 20px; 
+  border: 2px solid black; 
+}
+
+.content img {
+  max-width: 200px;
+  height: auto; 
+  display: block;
+  margin: 0 auto; 
+  border: 5px solid white; 
+}
+
 .bg-fej {
   background-position: inherit;
   height: 180px;
