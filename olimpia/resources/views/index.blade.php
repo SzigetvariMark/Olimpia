@@ -85,29 +85,49 @@ Public domain, via Wikimedia Commons
 </div>
 </div>
 <div>
-<h1>Rövidpályás gyorskorcsolya eredmények</h1>
-<table class="table">
-        <thead>
-            <tr>
-                <th>Város</th>
-                <th>Sportág</th>
-                <th>Helyszín</th>
-                <th>Versenyszámok</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach($sportagak as $sportag)
-            <tr>
-                <td>{{ $sportag->varos }}</td>
-                <td>{{ $sportag->sportagneve }}</td>
-                <td>{{ $sportag->helyszin }}</td>
-                <td>{{ $sportag->versenyszamok }}</td>
-            </tr>
-            @endforeach
-        </tbody>
+<div class="container-also">
+    <h2>Rövidpályás gyorskorcsolya eredmények:</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Helyezés ID</th>
+          <th>Helyezés</th>
+          <th>Ország</th>
+          <th>Arany</th>
+          <th>Ezüst</th>
+          <th>Bronz</th>
+        </tr>
+      </thead>
+      <tbody>
+        <?php
+          
+          $conn = new mysqli("127.0.0.1", "root", "", "teliolimpia");
+    
+          if ($conn->connect_error) {
+            die("Sikertelen kapcsolódás: " . $conn->connect_error);
+          }
+
+          $sql = "SELECT helyezesID, helyezes, orszag, arany, ezust, bronz FROM rpgyorskorcsolyaeredmenyek";
+          $result = $conn->query($sql);
+        
+          if ($result->num_rows > 0) {
+            while($row = $result->fetch_assoc()) {
+              echo "<tr>
+                      <td>".$row["helyezesID"]."</td>
+                      <td>".$row["helyezes"]."</td>
+                      <td>".$row["orszag"]."</td>
+                      <td>".$row["arany"]."</td>
+                      <td>".$row["ezust"]."</td>
+                      <td>".$row["bronz"]."</td>
+                    </tr>";
+            }
+          } else {
+            echo "Nincsenek eredmények az adatbázisban.";
+          }
+          $conn->close();
+        ?>
+      </tbody>
     </table>
-
 </div>
-
 </body>
 </html>
