@@ -86,7 +86,7 @@ Public domain, via Wikimedia Commons
 </div>
 <div>
 <div class="container-also">
-    <h2>Rövidpályás gyorskorcsolya eredmények:</h2>
+    <h2>Éremszerző helyek listája:</h2>
     <table class="table">
       <thead>
         <tr>
