@@ -12,14 +12,19 @@
     <nav class="bg-fej topnav">
     <h1 class="title-h1">Téli olimpiai játékok</h1>
     </nav>
-    <div class="container"></div>
+    <div class="container2">
 <h3>Kinai téli olompiai játékok</h3>
-        
-    <img src="img/2022_Winter_Olympics_logo.svg">  <a href="https://upload.wikimedia.org/wikipedia/commons/b/b4/2022_Winter_Olympics_logo.svg">  eijing2022.cn, <a/> Public domain, via Wikimedia Commons 
+<div class="image-frame">
+    <img src="img/2022_Winter_Olympics_logo.svg" class="kép">  
+</div>
+    <div class="also-szoveg">
+    <a href="https://upload.wikimedia.org/wikipedia/commons/b/b4/2022_Winter_Olympics_logo.svg">eijing2022.cn,<a/>
+    Public domain, via Wikimedia Commons 
             A XXIV. téli olimpiai játékokat 2022. február 4. és február 20. között rendezték a kínai Pekingben. A rendező várost a 128. IOC gyűlésen választotta ki a Nemzetközi Olimpiai Bizottság 2015. július 31-én a malajziai Kuala Lumpurban. A 2022-es téli olimpiának 25 helyszíne van. A bázis Pekingben található, amely otthont ad például a jégkorong, a gyorskorcsolya, a curling versenyeknek. A 2022. február 4. és 20. között zajló pekingi téli olimpiai játékok egyetlen új, a játékokra emelt állandó helyszíne az Ice Ribbon, azaz Jégszalag.
             Peking a Kínai Népköztársaság fővárosa, négy tartományi jogú városának egyike, a Pekingi főegyházmegye érseki székvárosa. Pekinget északról, nyugatról, délről és kis részben keletről Hopej tartomány határolja, míg délkeletről Tiencsin tartománnyal szomszédos.
-            <!DOCTYPE html>
             </div>
+</div>
+<div class="container3">
     <h1>Helyszinek:</h1>
     <table class="table">
         <thead>
@@ -41,6 +46,7 @@
             @endforeach
         </tbody>
     </table>
+    </div>
     <div class="container-keret">
         <div class="content">
      <h3>Rövidpályás gyorskorcsolya a téli olimpiai játékokon</h3>
@@ -53,8 +59,7 @@
       <br>
           A kép címe: "Készítette: Auguste Matisse - precise immediate image source is unknown. The poster is also on display at the website of the IOC.,Közkincs"
           <img src="img/1924WOlympicPoster.jpeg" class="kep1"><a href="https://commons.wikimedia.org/w/index.php?curid=216754">, Eredeti oldal <a/>
-                 
-
+            
          <h3>Rövid pályás gyorskorcsolya Magyarország</h3>
          <p>Magyarország a kínai Pekingben megrendezett 2022. évi téli olimpiai játékok egyik részt vevő nemzete volt. Az országot az olimpián 5 sportágban 14 sportoló képviselte. Magyarország először szerzett egynél több érmet a téli olimpiai játékok történetében. Liu Shaoang Magyarország első egyéni téli olimpiai aranyérmét nyerte.
             <img src="img/magyar_rp_gyors_korcsolya.jpeg" class="kep2">
@@ -63,5 +68,15 @@
       Maga a sportág 1992 óta szerepel az olimpiákon, és eddig 16 ország tudott érmet szerezni az azóta lebonyolított kilenc játékokon. Közülük a belgák most iratkoztak fel egy bronzéremmel. Az élen itt is Dél-Korea áll 26 arannyal és 53 éremmel, a kínaiaknak 12 aranyuk és 37 dobogós helyezésük, a kanadaiaknak 10 aranyuk és 37 medáliájuk van. Innentől kezdve viszont nagyon szoros a mezőny: az amerikaiaknak 4 aranyuk, az olaszoknak, a hollandoknak és Oroszországnak 3-3 olimpiai bajnoki címe van, és Liu Shaoang 500-as aranyával, 1000 méteres bronzával és a vegyes váltó harmadik helyével Magyarország az igen előkelő 8. helyre lépett előre a tizedikről, megelőzve Japánt és Ausztráliát is. A mieink négy éve iratkoztak fel a tabellára a férfiváltó aranyérmével.    
       </div>
     </div>
+</div>
+
+
+<div>
+<h1>Rövidpályás gyorskorcsolya eredmények</h1>
+
+        
+
+</div>
+
 </body>
 </html>

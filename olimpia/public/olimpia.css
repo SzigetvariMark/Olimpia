@@ -11,19 +11,12 @@
   color: #293647;
 }
 
-.container-keret {
-  display: flex;
-  justify-content: center;
-  align-items: center; 
-  height: 100vh;
-  background-color: brown;
-}
-
 .content {
   text-align: center;
-  background-color: white; 
+  background-color: rgb(99, 64, 0); 
   padding: 20px; 
   border: 2px solid black; 
+  color: black;
 }
 
 .content img {
@@ -77,4 +70,31 @@ a {
 #kalkGomb {
   margin: 20px auto;
 }
+
+.container2 {
+  position: relative;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 20px; 
+}
+.image-frame {
+  display: inline-block;
+  border: 5px solid #888; 
+  padding: 10px; 
+}
+.felso-szoveg,
+.also-szoveg {
+  position: absolute;
+  margin-top: 160px;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.container3
+{
+  margin-top: 130px;
+}
+
 
