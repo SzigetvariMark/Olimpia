@@ -73,8 +73,26 @@
 
 <div>
 <h1>Rövidpályás gyorskorcsolya eredmények</h1>
-
-        
+<table class="table">
+        <thead>
+            <tr>
+                <th>Város</th>
+                <th>Sportág</th>
+                <th>Helyszín</th>
+                <th>Versenyszámok</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach($sportagak as $sportag)
+            <tr>
+                <td>{{ $sportag->varos }}</td>
+                <td>{{ $sportag->sportagneve }}</td>
+                <td>{{ $sportag->helyszin }}</td>
+                <td>{{ $sportag->versenyszamok }}</td>
+            </tr>
+            @endforeach
+        </tbody>
+    </table>
 
 </div>
 
