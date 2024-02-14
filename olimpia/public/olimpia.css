@@ -11,22 +11,6 @@
   color: #293647;
 }
 
-.content {
-  text-align: center;
-  background-color: rgb(99, 64, 0); 
-  padding: 20px; 
-  border: 2px solid black; 
-  color: black;
-}
-
-.content img {
-  max-width: 200px;
-  height: auto; 
-  display: block;
-  margin: 0 auto; 
-  border: 5px solid white; 
-}
-
 .bg-fej {
   background-position: inherit;
   height: 180px;
@@ -87,14 +71,18 @@ h3 {
 .felso-szoveg,
 .also-szoveg {
   position: absolute;
-  margin-top: 160px;
+  margin-top: 190px;
   width: 100%;
   top: 50%;
   transform: translateY(-50%);
 }
 .container3
 {
-  margin-top: 130px;
+  margin-top: 150px;
 }
+.szoveg {
+  margin-top: 10px;
+  font-size: 18px;
 
+}
 
