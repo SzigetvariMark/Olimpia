@@ -53,32 +53,32 @@ Public domain, via Wikimedia Commons
 <div style="background-color: #B5A642; padding: 20px;">
     <div class="container-k2eret">
         <div class="content" style="display: flex; flex-direction: column; align-items: center;">
-            <h3 style="text-align: center; color: white;">Rövidpályás gyorskorcsolya a téli olimpiai játékokon</h3>
+            <h3 style="text-align: center; color: black;">Rövidpályás gyorskorcsolya a téli olimpiai játékokon</h3>
 
-            <p style="text-align: justify; color: white;">A 2022. évi téli olimpiai játékokon a rövidpályás gyorskorcsolya versenyszámait a pekingi Fővárosi Fedett Stadionban rendezték február 5. és 16. között. A férfiaknak és a nőknek egyaránt 4–4 versenyszámban, illetve egy vegyes versenyszámban osztottak érmeket. A vegyes 2000 méteres váltó először szerepelt a téli olimpiai játékok programjában. <a href="https://hu.wikipedia.org/wiki/R%C3%B6vidp%C3%A1ly%C3%A1s_gyorskorcsolya" style="color: white;">Rövidpályás gyorskorcsolya</a></p>
+            <p style="text-align: justify; color: black;">A 2022. évi téli olimpiai játékokon a rövidpályás gyorskorcsolya versenyszámait a pekingi Fővárosi Fedett Stadionban rendezték február 5. és 16. között. A férfiaknak és a nőknek egyaránt 4–4 versenyszámban, illetve egy vegyes versenyszámban osztottak érmeket. A vegyes 2000 méteres váltó először szerepelt a téli olimpiai játékok programjában. <a href="https://hu.wikipedia.org/wiki/R%C3%B6vidp%C3%A1ly%C3%A1s_gyorskorcsolya" style="color: blue;">Rövidpályás gyorskorcsolya</a></p>
         <div class="content" style="display: flex; justify-content: space-between;display: flex; gap: 20px;">
             <div style="flex: 1;">
-                <h3 style="text-align: center; color: white;">Téli olimpia története</h3>
-                <div style="text-align: justify; color: white;">
+                <h3 style="text-align: center; color: black;">Téli olimpia története</h3>
+                <div style="text-align: justify; color: black;">
                     <p>Az 1924. évi téli olimpiai játékok, később adott hivatalos nevén az I. téli olimpiai játékok egy több sportot magába foglaló nemzetközi sportesemény volt, melyet 1924. január 25. és február 5. között rendeztek meg a franciaországi Chamonix-ban. Hivatalosan Semaine Internationale des Sports d'Hiver (Télisportok Nemzetközi Hete) néven szerepelt az 1924. évi nyári olimpiai játékokkal, a Mont Blanc lábánál. Chamonix olimpiáját a Francia Olimpiai Bizottság rendezte meg, a várost a Nemzetközi Olimpiai Bizottság jelölte ki, mint az első téli olimpiai játékok házigazdáját. 1924-től egészen 1992-ig a téli olimpiákat a nyáriakkal megegyező években tartották.</p>
-                    <p style="color: white;">A kép címe: "Készítette: Auguste Matisse - precise immediate image source is unknown. The poster is also on display at the website of the IOC.,Közkincs"</p>
+                    <p style="color: black;">A kép címe: "Készítette: Auguste Matisse - precise immediate image source is unknown. The poster is also on display at the website of the IOC.,Közkincs"</p>
                 </div>
                 <div style="text-align: center;">
                     <img src="img/1924WOlympicPoster.jpeg" class="kep1" style="margin: 10px;">
                     <br>
-                    <a href="https://commons.wikimedia.org/w/index.php?curid=216754" style="color: white;">Eredeti oldal</a>
+                    <a href="https://commons.wikimedia.org/w/index.php?curid=216754" style="color: blue;">Eredeti oldal</a>
                 </div>
             </div>
             <div style="flex: 1;">
-                <h3 style="text-align: center; color: white;">Rövid pályás gyorskorcsolya Magyarország</h3>
-                <div style="text-align: justify; color: white;">
+                <h3 style="text-align: center; color: black;">Rövid pályás gyorskorcsolya Magyarország</h3>
+                <div style="text-align: justify; color: black;">
                     <p>Magyarország a kínai Pekingben megrendezett 2022. évi téli olimpiai játékok egyik részt vevő nemzete volt. Az országot az olimpián 5 sportágban 14 sportoló képviselte. Magyarország először szerzett egynél több érmet a téli olimpiai játékok történetében. Liu Shaoang Magyarország első egyéni téli olimpiai aranyérmét nyerte.</p>
                     <div style="text-align: center;">
                         <img src="img/magyar_rp_gyors_korcsolya.jpeg" class="kep2" style="margin: 10px;">
-                        <p style="color: white;">A kép címe: "A magyar érmeket szállító short trackesek (balról): Liu Shaoang, Jászapáti Petra, Kónya Zsófia, Liu Shaolin Sándor és Krueger John-Henry (Fotó: Árvai Károly)"</p>
+                        <p style="color: black;">A kép címe: "A magyar érmeket szállító short trackesek (balról): Liu Shaoang, Jászapáti Petra, Kónya Zsófia, Liu Shaolin Sándor és Krueger John-Henry (Fotó: Árvai Károly)"</p>
                     </div>
                 </div>
-                <p style="text-align: justify; color: white;">Maga a sportág 1992 óta szerepel az olimpiákon, és eddig 16 ország tudott érmet szerezni az azóta lebonyolított kilenc játékokon. Közülük a belgák most iratkoztak fel egy bronzéremmel. Az élen itt is Dél-Korea áll 26 arannyal és 53 éremmel, a kínaiaknak 12 aranyuk és 37 dobogós helyezésük, a kanadaiaknak 10 aranyuk és 37 medáliájuk van. Innentől kezdve viszont nagyon szoros a mezőny: az amerikaiaknak 4 aranyuk, az olaszoknak, a hollandoknak és Oroszországnak 3-3 olimpiai bajnoki címe van, és Liu Shaoang 500-as aranyával, 1000 méteres bronzával és a vegyes váltó harmadik helyével Magyarország az igen előkelő 8. helyre lépett előre a tizedikről, megelőzve Japánt és Ausztráliát is. A mieink négy éve iratkoztak fel a tabellára a férfiváltó aranyérmével.</p>
+                <p style="text-align: justify; color: black;">Maga a sportág 1992 óta szerepel az olimpiákon, és eddig 16 ország tudott érmet szerezni az azóta lebonyolított kilenc játékokon. Közülük a belgák most iratkoztak fel egy bronzéremmel. Az élen itt is Dél-Korea áll 26 arannyal és 53 éremmel, a kínaiaknak 12 aranyuk és 37 dobogós helyezésük, a kanadaiaknak 10 aranyuk és 37 medáliájuk van. Innentől kezdve viszont nagyon szoros a mezőny: az amerikaiaknak 4 aranyuk, az olaszoknak, a hollandoknak és Oroszországnak 3-3 olimpiai bajnoki címe van, és Liu Shaoang 500-as aranyával, 1000 méteres bronzával és a vegyes váltó harmadik helyével Magyarország az igen előkelő 8. helyre lépett előre a tizedikről, megelőzve Japánt és Ausztráliát is. A mieink négy éve iratkoztak fel a tabellára a férfiváltó aranyérmével.</p>
             </div>
         </div>
     </div>
